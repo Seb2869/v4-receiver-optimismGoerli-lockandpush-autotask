@@ -1,6 +1,6 @@
 # V4 Receiver Mumbai LockAndPush Autotask
 
-Orchestrates PoolTogether V4 on Polygon Optimism Kovan Testnet
+Orchestrates PoolTogether V4 on Optimism Kovan Testnet
 
 **Environment Variable** 
 ```.sh 

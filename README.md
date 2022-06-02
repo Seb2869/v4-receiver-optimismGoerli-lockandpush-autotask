@@ -1,4 +1,4 @@
-# V4 Receiver Mumbai LockAndPush Autotask
+# V4 Receiver Optimism Kovan LockAndPush Autotask
 
 Orchestrates PoolTogether V4 on Optimism Kovan Testnet
 

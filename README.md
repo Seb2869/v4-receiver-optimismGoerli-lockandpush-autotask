@@ -4,7 +4,7 @@ Orchestrates PoolTogether V4 on Optimism Kovan Testnet
 
 **Environment Variable** 
 ```.sh 
-export AUTOTASK_ID=
+export AUTOTASK_ID=9aff41f0-363b-4e3f-b62d-0c7501c0083e
 ```
 
 # Setup

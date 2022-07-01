@@ -6,9 +6,6 @@
   "main": "src/cli.js",
   "author": "PoolTogether Inc",
   "license": "MIT",
-  "bin": {
-    "ts-node": "./node_modules/bin/ts-node "
-  },
   "scripts": {
     "build": "rollup -c rollup.config.js",
     "update": "yarn build && ./scripts/updateTask.js",

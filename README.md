@@ -1,6 +1,6 @@
-# V4 Receiver Optimism Kovan LockAndPush Autotask
+# V4 Receiver Optimism Goerli LockAndPush Autotask
 
-Orchestrates PoolTogether V4 on Optimism Kovan Testnet
+Orchestrates PoolTogether V4 on Optimism Goerli Testnet
 
 ## Environment Variable
 ```.sh

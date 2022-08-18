@@ -26,6 +26,10 @@ export async function handler(event: any) {
         chainId: 420,
         providerUrl: event.secrets.optimismGoerliProviderURL,
       },
+      {
+        chainId: 421613,
+        providerUrl: event.secrets.arbitrumGoerliProviderURL,
+      },
     ],
   };
 

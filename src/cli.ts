@@ -7,6 +7,7 @@ if (require.main === module) {
     ETHEREUM_GOERLI_PROVIDER_URL: ethereumGoerliProviderURL,
     POLYGON_MUMBAI_PROVIDER_URL: polygonMumbaiProviderURL,
     OPTIMISM_GOERLI_PROVIDER_URL: optimismGoerliProviderURL,
+    ARBITRUM_GOERLI_PROVIDER_URL: arbitrumGoerliProviderURL,
   } = process.env;
 
   handler({
@@ -16,6 +17,7 @@ if (require.main === module) {
       ethereumGoerliProviderURL,
       polygonMumbaiProviderURL,
       optimismGoerliProviderURL,
+      arbitrumGoerliProviderURL,
     },
   })
     .then(() => process.exit(0))
